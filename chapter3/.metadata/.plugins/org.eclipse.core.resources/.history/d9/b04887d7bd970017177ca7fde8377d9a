@@ -1,0 +1,13 @@
+package youDoIt;
+
+public class paradiseInfo 
+{
+	public static void displayInfo();
+	displayInfo()
+	{
+		System.out.println("Paradise Day Spa wants to pamper you.");
+		System.out.println("We will make you look good.");
+
+	}
+
+}
